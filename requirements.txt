@@ -1,0 +1,10 @@
+streamlit==1.32.2
+torch==2.2.2
+torchaudio==2.2.2
+transformers==4.39.3
+pydub==0.25.1
+soundfile==0.12.1
+noisereduce==2.0.1
+langgraph==0.0.20
+langdetect==1.0.9
+ollama==0.1.5
